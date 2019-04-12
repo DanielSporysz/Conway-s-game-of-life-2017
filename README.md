@@ -4,10 +4,6 @@
 
 * C
 
-## Version
-
-0.1
-
 ## Authors
 
 * **Grzegorz Kopyt**
